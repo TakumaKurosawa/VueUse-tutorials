@@ -13,8 +13,9 @@
 </template>
 
 <script lang="ts" setup>
-import { RouterView } from "vue-router";
-import Logo from "@/components/Logo.vue";
+import { RouterView } from 'vue-router'
+
+import Logo from '@/components/Logo.vue'
 </script>
 
 <style scoped>
