@@ -9,11 +9,11 @@ const router = createRouter({
       component: () => import('../views/index.vue'),
     },
     {
-      path: "/about",
-      name: "about",
-      component: () => import("../views/about.vue"),
+      path: '/undo_redo',
+      name: 'UndoRedo',
+      component: () => import('../views/undo_redo.vue'),
     },
   ],
-});
+})
 
 export default router

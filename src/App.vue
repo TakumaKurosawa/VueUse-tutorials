@@ -3,7 +3,7 @@
     <Logo height="50px" link-to="/" />
     <nav>
       <router-link to="/">Infinite Scroll</router-link>
-      <router-link to="/about">About</router-link>
+      <router-link to="/undo_redo">Undo Redo</router-link>
     </nav>
   </header>
 
