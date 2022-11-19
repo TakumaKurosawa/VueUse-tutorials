@@ -4,6 +4,9 @@
     <nav>
       <router-link to="/">Infinite Scroll</router-link>
       <router-link to="/undo_redo">Undo Redo</router-link>
+      <router-link to="/undo_redo_shortcut">
+        Undo Redo With Shortcut
+      </router-link>
     </nav>
   </header>
 

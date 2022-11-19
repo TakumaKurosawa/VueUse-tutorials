@@ -13,6 +13,11 @@ const router = createRouter({
       name: 'UndoRedo',
       component: () => import('../views/undo_redo.vue'),
     },
+    {
+      path: '/undo_redo_shortcut',
+      name: 'UndoRedoShortcut',
+      component: () => import('../views/undo_redo_shortcut.vue'),
+    },
   ],
 })
 
