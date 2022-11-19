@@ -2,7 +2,7 @@
   <header>
     <Logo height="50px" link-to="/" />
     <nav>
-      <router-link to="/">Home</router-link>
+      <router-link to="/">Infinite Scroll</router-link>
       <router-link to="/about">About</router-link>
     </nav>
   </header>
@@ -20,7 +20,10 @@ import Logo from '@/components/Logo.vue'
 
 <style scoped>
 header {
-  height: 70px;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+  height: 8vh;
   background-color: #f5f5f5;
   display: flex;
   justify-content: space-between;
@@ -38,6 +41,12 @@ nav > * {
 }
 
 main {
-  padding: 1rem;
+  position: absolute;
+  top: 8vh;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 92vh;
+  overflow: hidden;
 }
 </style>
