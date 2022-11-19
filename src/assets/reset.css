@@ -60,7 +60,7 @@
 }
 
 :where(a) {
-    text-underline-offset: .2ex
+    text-decoration: none;
 }
 
 :where(ul,ol) {
