@@ -7,6 +7,7 @@
       <router-link to="/undo_redo_shortcut">
         Undo Redo With Shortcut
       </router-link>
+      <router-link to="/scroll_tracking">Scroll Tracking</router-link>
     </nav>
   </header>
 

@@ -18,6 +18,11 @@ const router = createRouter({
       name: 'UndoRedoShortcut',
       component: () => import('../views/undo_redo_shortcut.vue'),
     },
+    {
+      path: '/scroll_tracking',
+      name: 'ScrollTracking',
+      component: () => import('../views/scroll_tracking.vue'),
+    },
   ],
 })
 
