@@ -45,3 +45,10 @@ npm run preview
 ### Lint with [ESLint](https://eslint.org/)
 npm run lint
 ```
+
+## Thanks to ❤️
+
+- https://www.canva.com
+- https://gopherize.me
+- https://unsplash.com/ja
+- https://carbon.now.sh
