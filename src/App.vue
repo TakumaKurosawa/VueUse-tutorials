@@ -8,6 +8,7 @@
         Undo Redo With Shortcut
       </router-link>
       <router-link to="/scroll_tracking">Scroll Tracking</router-link>
+      <router-link to="/draggable">Draggable</router-link>
     </nav>
   </header>
 

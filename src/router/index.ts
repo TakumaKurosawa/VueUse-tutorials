@@ -23,6 +23,11 @@ const router = createRouter({
       name: 'ScrollTracking',
       component: () => import('../views/scroll_tracking.vue'),
     },
+    {
+      path: '/draggable',
+      name: 'Draggable',
+      component: () => import('../views/draggable.vue'),
+    },
   ],
 })
 
