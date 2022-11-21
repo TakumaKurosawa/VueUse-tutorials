@@ -5,6 +5,16 @@
     <p>Collection of essential Vue Composition Utilities</p>
 </div>
 
+## 登壇資料＆発表動画
+
+### 登壇資料
+
+https://www.canva.com/design/DAFSeruh6DU/view?utm_content=DAFSeruh6DU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+### 発表動画
+
+[![発表動画へのリンク](readme-resource/Canva.png)](https://www.canva.com/design/DAFSeruh6DU/eU_1mF5HzhCKg3wJX2KkDA/view?utm_content=DAFSeruh6DU&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
+
 ## Resources
 
 - [Documents](https://vueuse.org/guide/)
